@@ -1,0 +1,10 @@
+body{
+  background-color: rgb(69, 69, 69);
+}
+.basic{
+  background-color: rgb(48, 48, 48);
+  height: 700px;
+  width: 750px;
+  padding: 20px;
+  border-style: solid;
+}
